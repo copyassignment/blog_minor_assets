@@ -1,6 +1,8 @@
-certificates = {
-  "00A1": {
-    "name": "Ankur Gajurel"
-    "position": "Creative Writer Intern"
+{
+  "certificates": {
+    "00A1": {
+      "name": "Ankur Gajurel",
+      "position": "Creative Writer Intern"
+    }
   }
 }
